@@ -3,7 +3,7 @@
 ## I'm a Full Stack Software Developer from Argentina 🖥️
  - ❤️ I love building quality software and implementing elegant solutions
  - 👀 I'm a very curious person and I'm constantly learning new technologies 
- - 📚 Currently I'm learning and really liking Flutter
+ - 📚 Currently I'm learning system design best practices and how to solve Software architecture problems
  - 💼 I'm currently working on React apps using Typescript, Nextjs and Nodejs
  - 🎮 I love videogames and coffee
 
