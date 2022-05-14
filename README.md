@@ -4,7 +4,7 @@
  - ❤️ I love building quality software and implementing elegant solutions
  - 👀 I'm a very curious person and I'm constantly learning new technologies 
  - 📚 Currently I'm learning and really liking Flutter
- - 💼 I'm currently working on ASP.NET and React apps
+ - 💼 I'm currently working on React apps using Typescript, Nextjs and Nodejs
  - 🎮 I love videogames and coffee
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaquinGomez1&show_icons=true&theme=nord)
