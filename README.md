@@ -1,4 +1,4 @@
-# Hi 👋
+# Hello random person from the internet 👋
 
 ## I'm a Software Developer from Argentina 🖥️
  - ❤️ I love building quality software and implementing elegant solutions
