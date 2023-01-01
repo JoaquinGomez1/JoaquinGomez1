@@ -22,7 +22,14 @@
 </p>
 
 
-## 📫 You can find me on:
+## 📫 Socials and email:
+
+<p>
+My goal is to keep this readme short and sweet, without bloating the whole page with unnecesary info.
+So, if you wanna get to know me a little bit more feel free to reach out to me anytime at any of the social media platforms listed below.
+</p>
+
+
 
 <p>
  <a href="https://joaquingomez.netlify.app/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="30"> </a>
@@ -31,7 +38,5 @@
 </p>
 
 
-<p ">
-Feel free to reach out to me anytime
-</p>
+
 
