@@ -1,6 +1,6 @@
 # Hi 👋
 
-## I'm a Full Stack Software Developer from Argentina 🖥️
+## I'm a Software Developer from Argentina 🖥️
  - ❤️ I love building quality software and implementing elegant solutions
  - 👀 I'm a very curious person and I'm constantly learning new technologies 
  - 📚 Currently I'm learning how to leverage AWS to be a better dev
