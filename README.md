@@ -4,7 +4,8 @@
  - ❤️ I love building quality software and implementing elegant solutions
  - 👀 I'm a very curious person and I'm constantly learning new technologies 
  - 📚 Currently I'm learning how to leverage AWS to be a better dev
- - 💼 I'm currently working on React apps using Typescript, Nextjs and Nodejs
+ - 💼 I'm currently working on React & React Native apps using Typescript, Nextjs and Nodejs
+ 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaquinGomez1&show_icons=true&theme=nord)
 
