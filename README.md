@@ -1,10 +1,11 @@
-# Hello random person from the internet 👋
+# Hi! 👋
 
-## My name's Joaquin and I'm a Software Developer from Argentina 🖥️
- - ❤️ I love building quality software and implementing elegant solutions
- - 👀 I'm a very curious person and I'm constantly learning new technologies 
- - 📚 Currently I'm learning how to leverage AWS to be a better dev
- - 💼 I'm currently working on React & React Native apps using Typescript, Nextjs and Nodejs
+## My name's Joaquin and I'm a Senior Software Developer from Argentina 🇦🇷 🖥️
+ - ❤️ I love building exciting solutions to solve new problems.
+ - 👀 Extremely curious and always on the look out for new challenges.
+ - 📚 Currently learning how to leverage AI tools to help my teams be more productive.
+ - 💼 Mainly focused on working on the React ecosystem using Typescript.
+ - 🍺 I'm always down for helping people out, DM me if you find anything interesting on my repos.
  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaquinGomez1&show_icons=true&theme=nord)
